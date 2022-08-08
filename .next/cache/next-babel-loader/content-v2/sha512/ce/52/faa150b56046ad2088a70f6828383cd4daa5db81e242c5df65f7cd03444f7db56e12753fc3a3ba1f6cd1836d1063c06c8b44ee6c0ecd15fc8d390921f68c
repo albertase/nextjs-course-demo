@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nimport classes from './LoadingSpinner.module.css';\n\nconst LoadingSpinner = () => {\n  return /*#__PURE__*/_jsx(\"div\", {\n    className: classes.spinner\n  });\n};\n\nexport default LoadingSpinner;","map":null,"metadata":{},"sourceType":"module"}
